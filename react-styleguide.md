@@ -119,7 +119,7 @@ const SuperheroList_ = ({
   SuperheroData = []
 }) => {
 
-  addToCompareList(superhero) {
+  function addToCompareList(superhero) {
     // Outgoing methods - to be sent to child components
   }
 
